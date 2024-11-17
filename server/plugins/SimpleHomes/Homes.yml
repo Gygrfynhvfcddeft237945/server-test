@@ -1,1 +1,43 @@
-
+editzon:
+  m:
+    world: world
+    X: -790.0748913657914
+    Y: 11.0
+    Z: -628.469123328957
+  base:
+    world: world
+    X: -789.3551063956619
+    Y: 41.0
+    Z: -607.4920409385695
+Gygrfynhvfcddeft:
+  blazespawner:
+    world: world_nether
+    X: 132.2962850800608
+    Y: 69.0
+    Z: 156.30000001192093
+  someonebase:
+    world: world
+    X: -763.1559608866936
+    Y: 64.0
+    Z: -607.6840707004421
+  netherroof:
+    world: world_nether
+    X: 12501.292591808011
+    Y: 128.0
+    Z: 12498.028788452357
+  nether:
+    world: world_nether
+    X: 12492.103773875384
+    Y: 68.0
+    Z: 12505.59304534793
+  base:
+    world: world
+    X: 100320.68229329218
+    Y: 67.0
+    Z: 100050.30000001192
+____leon___:
+  base:
+    world: world
+    X: 100324.96258870795
+    Y: 66.0
+    Z: 100046.71125951078
